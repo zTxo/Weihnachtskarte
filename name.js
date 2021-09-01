@@ -1,4 +1,4 @@
-const name = getNameFromUrl() || "Youtube";
+const name = getNameFromUrl() || "Du";
 
 const nameEle = document.getElementById("name");
 
